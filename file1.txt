@@ -1,7 +1,8 @@
 Ini adalah file 1
 Ini adalah file 1
 Some bug fix here!!!!!!!!!!!
-Ini adalah file 1
-Ini adalah file 1
-Ini adalah file 1
-Ini adalah file 1
+// delete some features
+// Ini adalah file 1
+// Ini adalah file 1
+// Ini adalah file 1
+// Ini adalah file 1
